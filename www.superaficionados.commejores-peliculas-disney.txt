@@ -1,0 +1,5 @@
+the odin proyect
+freecodecamp
+harvard CS50(curso)
+HackerRank
+Leetcode
